@@ -1,1 +1,16 @@
-123
+# Customer Single View
+![image](https://github.com/kikkalo/MADT8101/assets/115805661/f1436dfd-d6ba-4790-b245-efc112b2042f)
+![image](https://github.com/kikkalo/MADT8101/assets/115805661/3c2ee9ea-aa98-48b7-bb04-1ef21191c764)
+![image](https://github.com/kikkalo/MADT8101/assets/115805661/86df1444-a2a2-4b69-bc33-b924c4d6e8b9)
+![image](https://github.com/kikkalo/MADT8101/assets/115805661/43ed2985-7650-4aad-a10d-1ad7d7f186de)
+![image](https://github.com/kikkalo/MADT8101/assets/115805661/23ea2097-68ba-4ccd-bd3f-dae1da9e46bd)
+![image](https://github.com/kikkalo/MADT8101/assets/115805661/7f244c1d-8365-4608-bb46-ff681705cd5d)
+![image](https://github.com/kikkalo/MADT8101/assets/115805661/9e50a506-a045-401a-907c-3ae8b5c66773)
+![image](https://github.com/kikkalo/MADT8101/assets/115805661/e5d9cb47-83cc-46e8-a8cd-2bed1eedb87f)
+![image](https://github.com/kikkalo/MADT8101/assets/115805661/0add99ac-11cd-48a0-8b17-1f8d1b51b847)
+![image](https://github.com/kikkalo/MADT8101/assets/115805661/eb02682b-138f-49e3-ad99-f303afb4ea4c)
+![image](https://github.com/kikkalo/MADT8101/assets/115805661/8a730370-d638-4af6-92a2-dd0c595b3f85)
+![image](https://github.com/kikkalo/MADT8101/assets/115805661/bde10499-073a-4821-9ce7-fc781f9f4707)
+![image](https://github.com/kikkalo/MADT8101/assets/115805661/17b42f5e-ef1f-4636-8d50-0a54b9791e40)
+![image](https://github.com/kikkalo/MADT8101/assets/115805661/54aae58f-b584-46f5-aae1-075fcd1bed09)
+![image](https://github.com/kikkalo/MADT8101/assets/115805661/276d01dd-ac90-4c94-8860-a986ae02d23e)
