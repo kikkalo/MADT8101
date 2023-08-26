@@ -1,4 +1,9 @@
-# EDA
+# Churn Scoring
+
+## Data
+* E Commerce Dataset
+  
+## EDA
 ![image](https://github.com/kikkalo/MADT8101/assets/115805661/77152e39-e0c3-441f-bbcd-be78b283cf58)
 
 ![image](https://github.com/kikkalo/MADT8101/assets/115805661/fc4c5ad4-9698-4752-9313-e8340e497b59)
@@ -7,7 +12,7 @@
 
 ![image](https://github.com/kikkalo/MADT8101/assets/115805661/27859b42-0dc2-4898-95d4-5c82588ec741)
 
-# Model Creation and Evaluation
+## Model Creation and Evaluation
 
 จาก Model ทั้งหมดที่ได้ พบว่า XGBoost Classifier ได้ผลลัพธ์ดีที่สุด ดังนี้
 
